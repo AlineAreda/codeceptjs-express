@@ -10,5 +10,12 @@ Arquitetura de projeto de automação de testes web em codeceptjs.
 
 
 -------------------------------------------------------------------
+
+## :checkered_flag: Execução dos testes:
+https://github.com/AlineAreda/codeceptjs-express/assets/77371831/fa8fad94-0f16-4ccf-8178-ce7001c3fffa
+
+
 ## :checkered_flag: Reports de Execução HTML:
 ![geral report](https://github.com/AlineAreda/codeceptjs-express/assets/77371831/b5478e1b-fd43-4e44-8153-234e51a68ed2)
+
+
